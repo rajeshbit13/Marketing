@@ -13,9 +13,9 @@ public class HomeController {
 	public ModelAndView showHome() {
 		return new ModelAndView("home","command",new User());
 	}
-	@RequestMapping(value="/blog")
+	@RequestMapping(value="/product")
 	public ModelAndView showBlog() {
-		return new ModelAndView("blog");
+		return new ModelAndView("product");
 	}
 	@RequestMapping(value="/contacts")
 	public ModelAndView showContacts() {

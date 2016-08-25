@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Blog</title>
+<title>Product</title>
 <meta charset="utf-8">
 <meta name="format-detection" content="telephone=no" />
 <link rel="icon" href="images/favicon.ico">
@@ -63,7 +63,7 @@
                <li><a href="home.html">Home</a></li>
                <li><a href="about.html">About</a></li>
                <li><a href="services.html">Services</a></li>
-               <li class="current"><a href="blog.html">Blog</a></li>
+               <li class="current"><a href="product.html">Product</a></li>
                <li><a href="contacts.html">Contacts</a></li>
                <li><a href="mission.html">Mission</a></li>
                <li><a href="vision.html">Vision</a></li>
@@ -84,8 +84,8 @@
   <div class="container">
     <div class="row">
       <div class="grid_12">
-        <h3>Our Blog</h3>
-        <div class="blog">
+        <h3>Our Product</h3>
+        <div class="product">
           <time datetime="2014-01-01"><span class="count">02</span><strong>July</strong>2014</time>
           <img src="images/page4_img1.jpg" alt="" class="img_inner fleft">
           <div class="extra_wrapper">
@@ -96,7 +96,7 @@
             <a href="#" class="link-1">more</a>
           </div>
         </div>
-        <div class="blog">
+        <div class="product">
           <time datetime="2014-01-01"><span class="count">05</span><strong>July</strong>2014</time>
           <img src="images/page4_img2.jpg" alt="" class="img_inner fleft">
           <div class="extra_wrapper">
@@ -107,7 +107,7 @@
             <a href="#" class="link-1">more</a>
           </div>
         </div>
-        <div class="blog">
+        <div class="product">
           <time datetime="2014-01-01"><span class="count">12</span><strong>July</strong>2014</time>
           <img src="images/page4_img3.jpg" alt="" class="img_inner fleft">
           <div class="extra_wrapper">
@@ -118,7 +118,7 @@
             <a href="#" class="link-1">more</a>
           </div>
         </div>
-        <div class="blog">
+        <div class="product">
           <time datetime="2014-01-01"><span class="count">22</span><strong>July</strong>2014</time>
           <img src="images/page4_img4.jpg" alt="" class="img_inner fleft">
           <div class="extra_wrapper">

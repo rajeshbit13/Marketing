@@ -61,12 +61,12 @@
             <nav>
               <ul class="sf-menu">
                <li><a href="home.html">Home</a></li>
-               <li class="current"><a href="about.html">About</a></li>
+               <li><a href="about.html">About</a></li>
                <li><a href="services.html">Services</a></li>
-               <li><a href="blog.html">Blog</a></li>
+               <li><a href="product.html">Product</a></li>
                <li><a href="contacts.html">Contacts</a></li>
                <li><a href="mission.html">Mission</a></li>
-               <li><a href="vision.html">Vision</a></li>
+               <li class="current"><a href="vision.html">Vision</a></li>
              </ul>
             </nav>
             <div class="clear"></div>
